@@ -39,4 +39,4 @@ Try to search "PASSWORD" in the file by typing
 $ /PASSWORD
 
 # Expected Results
-Can't find “PASSWORD” string in the core.[pid] dump file 
+Can't find “PASSWORD” string in the core.`pid` file 
