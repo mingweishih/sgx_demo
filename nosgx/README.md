@@ -1,3 +1,8 @@
+# Prerequisite
+Install `gcore` (part of `gdb`).
+
+$ sudo apt-get gdb
+
 # Build & Run (In terminal 1)
 $ make
 

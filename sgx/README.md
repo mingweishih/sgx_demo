@@ -1,3 +1,7 @@
+# Prerequisite
+
+Install [Open Enclave](https://github.com/openenclave/openenclave)
+
 # Build & Run (In terminal 1)
 $ mkdir build
 
